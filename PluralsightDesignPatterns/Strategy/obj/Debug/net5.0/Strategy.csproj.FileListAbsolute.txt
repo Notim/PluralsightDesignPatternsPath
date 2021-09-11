@@ -1,0 +1,16 @@
+C:\Users\pauli\Documents\projects\Github\PluralsightDesignPatternsPath\PluralsightDesignPatterns\Strategy\bin\Debug\net5.0\Strategy.exe
+C:\Users\pauli\Documents\projects\Github\PluralsightDesignPatternsPath\PluralsightDesignPatterns\Strategy\bin\Debug\net5.0\Strategy.deps.json
+C:\Users\pauli\Documents\projects\Github\PluralsightDesignPatternsPath\PluralsightDesignPatterns\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.json
+C:\Users\pauli\Documents\projects\Github\PluralsightDesignPatternsPath\PluralsightDesignPatterns\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.dev.json
+C:\Users\pauli\Documents\projects\Github\PluralsightDesignPatternsPath\PluralsightDesignPatterns\Strategy\bin\Debug\net5.0\Strategy.dll
+C:\Users\pauli\Documents\projects\Github\PluralsightDesignPatternsPath\PluralsightDesignPatterns\Strategy\bin\Debug\net5.0\ref\Strategy.dll
+C:\Users\pauli\Documents\projects\Github\PluralsightDesignPatternsPath\PluralsightDesignPatterns\Strategy\bin\Debug\net5.0\Strategy.pdb
+C:\Users\pauli\Documents\projects\Github\PluralsightDesignPatternsPath\PluralsightDesignPatterns\Strategy\obj\Debug\net5.0\Strategy.csproj.AssemblyReference.cache
+C:\Users\pauli\Documents\projects\Github\PluralsightDesignPatternsPath\PluralsightDesignPatterns\Strategy\obj\Debug\net5.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\Documents\projects\Github\PluralsightDesignPatternsPath\PluralsightDesignPatterns\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfoInputs.cache
+C:\Users\pauli\Documents\projects\Github\PluralsightDesignPatternsPath\PluralsightDesignPatterns\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfo.cs
+C:\Users\pauli\Documents\projects\Github\PluralsightDesignPatternsPath\PluralsightDesignPatterns\Strategy\obj\Debug\net5.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Documents\projects\Github\PluralsightDesignPatternsPath\PluralsightDesignPatterns\Strategy\obj\Debug\net5.0\Strategy.dll
+C:\Users\pauli\Documents\projects\Github\PluralsightDesignPatternsPath\PluralsightDesignPatterns\Strategy\obj\Debug\net5.0\ref\Strategy.dll
+C:\Users\pauli\Documents\projects\Github\PluralsightDesignPatternsPath\PluralsightDesignPatterns\Strategy\obj\Debug\net5.0\Strategy.pdb
+C:\Users\pauli\Documents\projects\Github\PluralsightDesignPatternsPath\PluralsightDesignPatterns\Strategy\obj\Debug\net5.0\Strategy.genruntimeconfig.cache
