@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{B3721E4C-C724-48BA-B0F1-F6FAC97F4C9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.csproj", "{19979D59-A0B9-4E21-A23C-8363A7F65807}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{B3721E4C-C724-48BA-B0F1-F6FAC97F4C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3721E4C-C724-48BA-B0F1-F6FAC97F4C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3721E4C-C724-48BA-B0F1-F6FAC97F4C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19979D59-A0B9-4E21-A23C-8363A7F65807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19979D59-A0B9-4E21-A23C-8363A7F65807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19979D59-A0B9-4E21-A23C-8363A7F65807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19979D59-A0B9-4E21-A23C-8363A7F65807}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
